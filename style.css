@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(55, 11, 96);
+    color: white;
+    text-align: center;
+
+}
+label{
+    font-size: 18px;
+}
+.atividades-extras{
+    display: inline-block;
+}
+#titulo-form{
+    color: aqua;
+    text-shadow:1px 1px 1px 1px white ;
+}
